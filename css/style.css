@@ -53,6 +53,7 @@
 .desc .card {
     margin-top: 20px;
     padding: 20px;
+    background-color: #edf4ff;
 }
 
 
@@ -199,7 +200,8 @@ textarea {
 .oneEntry {
     margin-bottom: 20px;
     border-bottom: 1px solid lightgray;
-    padding-bottom: 15px;
+    padding: 15px;
+    background-color: #ebf2f0;
 }
 
 .form-group {
@@ -210,4 +212,17 @@ textarea {
 .btnSub {
     margin-left: 22px;
     width: 150px;
+    background-color: #d54545;
+    border-color: #d54545;
+}
+
+.desc li {
+    font-size: 15px;
+    padding: 4px;
+}
+
+.profilepic {
+    float: right;
+    width: 17%;
+    margin-top: -90px;
 }
